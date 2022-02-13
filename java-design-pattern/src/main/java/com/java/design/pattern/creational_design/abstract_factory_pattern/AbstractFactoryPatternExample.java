@@ -56,5 +56,5 @@ Enter the loan amount you want to take: 1000
 Enter the number of years to pay your entire loan amount: 5
 
 you are taking the loan from HDFC BANK
-your monthly EMI is 19.147353285954672 for the amount1000.0 you have borrowed
+your monthly EMI is 19.147353285954672 for the amount 1000.0 you have borrowed
 */
